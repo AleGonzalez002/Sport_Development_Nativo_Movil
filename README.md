@@ -1,9 +1,3 @@
-﻿## Integrantes
-
-* Dennis Alejandro Gonzalez Carrillo / 20220440
-* Fernando Antonio Molina Paniagua / 20220418
-* Edgar Enrique Sarco Garcia / 20220082
-
 ## Proyecto
 
 Descripción:
@@ -58,11 +52,6 @@ Iniciar las dependencias tal cual el orden
 
 https://expo.dev/accounts/alegonzalez002/projects/cliente-app-sport-development/builds/a7286ed7-d61a-42c9-b6d1-eea2c4b11483 (.apk)
 
-## Licencia
-
-Este proyecto está licenciado bajo [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-Puedes utilizar, modificar y compartir este trabajo de acuerdo con los términos de la licencia Creative Commons Attribution 4.0 International.
 
 ## Dependencias para copiar y pegar
 
